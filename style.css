@@ -1,0 +1,28 @@
+body{
+
+    font-family: 'Dancing Script', cursive;
+} 
+        h1 {
+            font-size: 50px;
+}
+.golden-color{
+    color: rgb(180, 91, 18);
+}
+section{
+    display: flex;
+}
+    .half-width{
+        width: 50%;
+        padding:5% ;
+    }
+    .half-width img{
+        width: 110%;
+    }
+        .link-button{
+            color: khaki;
+            text-decoration: none;
+            background-image: linear-gradient(green,tomato);
+            padding: 10px 20px;
+            border-radius: 8px;
+            font-weight: 700;
+        }
