@@ -10,6 +10,7 @@ body{
 }
 section{
     display: flex;
+    margin-bottom: 80px;
 }
     .half-width{
         width: 50%;
@@ -17,6 +18,7 @@ section{
     }
     .half-width img{
         width: 110%;
+        border-radius: 10px;
     }
         .link-button{
             color: khaki;
@@ -26,3 +28,4 @@ section{
             border-radius: 8px;
             font-weight: 700;
         }
+        
